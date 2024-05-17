@@ -1,0 +1,14 @@
+C:\Projeto C#\ConferirIdade\ConferirIdade\bin\Debug\net8.0\ConferirIdade.exe
+C:\Projeto C#\ConferirIdade\ConferirIdade\bin\Debug\net8.0\ConferirIdade.deps.json
+C:\Projeto C#\ConferirIdade\ConferirIdade\bin\Debug\net8.0\ConferirIdade.runtimeconfig.json
+C:\Projeto C#\ConferirIdade\ConferirIdade\bin\Debug\net8.0\ConferirIdade.dll
+C:\Projeto C#\ConferirIdade\ConferirIdade\bin\Debug\net8.0\ConferirIdade.pdb
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ConferirIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ConferirIdade.AssemblyInfoInputs.cache
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ConferirIdade.AssemblyInfo.cs
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ConferirIdade.csproj.CoreCompileInputs.cache
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ConferirIdade.dll
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\refint\ConferirIdade.dll
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ConferirIdade.pdb
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ConferirIdade.genruntimeconfig.cache
+C:\Projeto C#\ConferirIdade\ConferirIdade\obj\Debug\net8.0\ref\ConferirIdade.dll
